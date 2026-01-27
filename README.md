@@ -101,6 +101,8 @@ Built using **Streamlit / Flask** with features:
 - 💡 Actionable recommendations  
   *(Example: “Detected: Tomato Late Blight → Apply Fungicide XYZ”)*
 
+streamlit run src\app_streamlit.py
+
 ---
 
 ## 📊 Results
